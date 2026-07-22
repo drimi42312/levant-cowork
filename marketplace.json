@@ -1,0 +1,14 @@
+{
+  "name": "levant-cowork",
+  "owner": {
+    "name": "Dan Rimi - Levant Living",
+    "email": "dan@levant-living.co.il"
+  },
+  "plugins": [
+    {
+      "name": "levant-sales",
+      "source": "./plugins/levant-sales",
+      "description": "כלי שיווק ומכירות של לבנט: מיילי פריסייל לפרויקטים THE ATRIUM והדואר 8, קליטת לידים ותיעוד ב-CRM"
+    }
+  ]
+}

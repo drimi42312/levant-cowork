@@ -1,0 +1,15 @@
+{
+  "name": "levant-sales",
+  "version": "0.1.0",
+  "description": "כלי שיווק ומכירות של לבנט (LVNT): הכנת מיילי פריסייל לפרויקטים THE ATRIUM שדרות ירושלים 94 והדואר 8 יפו, קליטת לידים ותיעוד פניות ב-CRM (Fireberry)",
+  "author": {
+    "name": "Dan Rimi - Levant Living",
+    "email": "dan@levant-living.co.il"
+  },
+  "keywords": [
+    "levant",
+    "presale",
+    "real-estate",
+    "crm"
+  ]
+}
